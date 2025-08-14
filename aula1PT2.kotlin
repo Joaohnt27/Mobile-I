@@ -8,7 +8,7 @@ fun main() {
   println(item)
   }
   
-  for (i in 0..7) {
+  for (i in 0..7) { //Se quiser pular colocar: step
       println(i)
   }
 }
