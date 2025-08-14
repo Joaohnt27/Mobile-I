@@ -1,0 +1,17 @@
+fun main() {
+  val items = listOf("nanana", "lemancia", "malamao")
+  for (item in items) {
+      println(item)
+  }
+  
+  items.forEach { item ->
+  println(item)
+  }
+  
+  for (i in 0..7) {
+      println(i)
+  }
+}
+
+
+
