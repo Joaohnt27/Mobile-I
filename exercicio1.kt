@@ -13,3 +13,7 @@ fun main() {
 fun informacoes (nome: String, idade: Int, altura: Double): String {
     return "Nome: $nome, idade: $idade, altura: $altura"
 }
+
+/* OU:
+fun informacoes (nome: String, idade: Int, altura: Double) = "Nome: $nome, idade: $idade, altura: $altura"
+*/
